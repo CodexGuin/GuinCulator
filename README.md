@@ -1,3 +1,3 @@
-# guinculator
+# GuinCulator
 
-A new Flutter project.
+My iteration of a calculator application! :)
