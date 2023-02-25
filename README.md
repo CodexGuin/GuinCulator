@@ -1,6 +1,6 @@
 # GuinCulator
 
-My iteration of a calculator application implemented in Flutter! :)
+My iteration of a calculator application! :)
 
 ## Screenshots
 
